@@ -36,6 +36,12 @@ pip install -r requirements.txt
 3.  **Run the Application:**
 python main.py
 
+## Note : Manually Install dlib (v20.0)
+
+If you face issues installing dlib, manually download and install version 20.0:
+
+👉 https://www.lfd.uci.edu/~gohlke/pythonlibs/#dlib
+
 ## For More Information (Click Below Page):
 [![Watch the Demo](https://github.com/hrishikeshpatil9552/Smart-Face-Survillence-System/blob/0ad472d1ce81b56547199dd0a1ce1db8019d0b7e/thumbnaill%20Smart%20Face.jpg)](https://youtu.be/yUrXe9JqrsU)
 
