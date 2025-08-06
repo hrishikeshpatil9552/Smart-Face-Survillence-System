@@ -37,6 +37,6 @@ pip install -r requirements.txt
 python main.py
 
 ## For More Information (Click Below Page):
-[![Watch the Demo](https://github.com/hrishikeshpatil9552/Documentation-To-Summary-Convertor/blob/b119a5aaa5ca085aea77fb56be0f2f3748179798/Thumbnail.jpg)](https://www.youtube.com/watch?v=X6miHl-m808)
+[![Watch the Demo](https://github.com/hrishikeshpatil9552/Smart-Face-Survillence-System/blob/0ad472d1ce81b56547199dd0a1ce1db8019d0b7e/thumbnaill%20Smart%20Face.jpg)](https://www.youtube.com/watch?v=X6miHl-m808)
 
 
