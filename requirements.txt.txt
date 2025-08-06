@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pillow
+pygame
+dlib
+face-recognition
+deepface
+scipy
+flask
